@@ -1,0 +1,4 @@
+x=(input("enter the filename"))
+a='python'
+print("extension of the file" , a)
+
